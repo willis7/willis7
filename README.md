@@ -1,4 +1,11 @@
-### Hi there 👋
+<img align="right" src="https://github.com/willis7/willis7/blob/master/pixel_avatar.png" alt="It me" width=175px height=175px />
+
+### Hiya, I'm Sion (pronounced Shaun)
+
+* I'm 🏴󠁧󠁢󠁷󠁬󠁳󠁿 but I live in Exeter, 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+* I'm an engineer and engineering leader
+* I'm a proud father of two
+* I love books, apple products, food, and dogs.
 
 <!--
 **willis7/willis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
