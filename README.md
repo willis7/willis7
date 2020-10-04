@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gradle Multiple Test Sourceset Coverage](https://sionwilliams.com/posts/2020-10-01-gradle-multiple-test-sourceset-coverage/)
 - [Jira ID in a Git commit message](https://sionwilliams.com/posts/2020-07-20-jiraid-in-a-git-commit/)
 - [Dont Blindly Upgrade Your 3d Printer](https://sionwilliams.com/posts/2020-04-26-dont-blindly-upgrade-your-3d-printer/)
 - [Upgrading to a new Synology device and migrating disks](https://sionwilliams.com/posts/2020-04-23_synology_migration/)
 - [Marlin 2.0.5.3 firmware on Creality Ender 5](https://sionwilliams.com/posts/2020-04-22_marlin_2_0_5_3_firmware_on_creality_ender5/)
-- [Automation ROI Mental Model](https://sionwilliams.com/posts/2020-04-16_automation_cost/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sionwilliams.com
