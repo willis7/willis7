@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Layered Composition](https://sionwilliams.com/posts/2020-10-29-terraform-layered-composition/)
 - [Why I Use Synology Diskstation](https://sionwilliams.com/posts/2020-10-21-why-i-use-synology/)
 - [Gradle Multiple Test Sourceset Coverage](https://sionwilliams.com/posts/2020-10-01-gradle-multiple-test-sourceset-coverage/)
 - [Jira ID in a Git commit message](https://sionwilliams.com/posts/2020-07-20-jiraid-in-a-git-commit/)
 - [Dont Blindly Upgrade Your 3d Printer](https://sionwilliams.com/posts/2020-04-26-dont-blindly-upgrade-your-3d-printer/)
-- [Upgrading to a new Synology device and migrating disks](https://sionwilliams.com/posts/2020-04-23_synology_migration/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sionwilliams.com
