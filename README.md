@@ -35,10 +35,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My Happy Place 2020](https://sionwilliams.com/posts/2021-01-01-my-happy-place/)
+- [My Second Brain](https://sionwilliams.com/posts/2020-12-10-my-second-brain/)
 - [Artifactory: Node & Npm Mirror](https://sionwilliams.com/posts/2020-12-09-node-n-npm-mirror/)
 - [Terraform Layered Composition](https://sionwilliams.com/posts/2020-10-29-terraform-layered-composition/)
 - [Why I Use Synology Diskstation](https://sionwilliams.com/posts/2020-10-21-why-i-use-synology/)
-- [Gradle Multiple Test Sourceset Coverage](https://sionwilliams.com/posts/2020-10-01-gradle-multiple-test-sourceset-coverage/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sionwilliams.com
