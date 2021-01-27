@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My 2020 Reading List](https://sionwilliams.com/posts/2021-01-27-my-2020-reading-list/)
 - [Agile without Engineering Practices](https://sionwilliams.com/posts/2021-01-08-agile-without-engineering-practices/)
 - [My Happy Place 2020](https://sionwilliams.com/posts/2021-01-01-my-happy-place/)
 - [My Second Brain](https://sionwilliams.com/posts/2020-12-10-my-second-brain/)
 - [Artifactory: Node & Npm Mirror](https://sionwilliams.com/posts/2020-12-09-node-n-npm-mirror/)
-- [Terraform Layered Composition](https://sionwilliams.com/posts/2020-10-29-terraform-layered-composition/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sionwilliams.com
