@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Digital Garden](https://sionwilliams.com/posts/2021-09-16-digital-garden/)
 - [VSCode Extension Recommendations](https://sionwilliams.com/posts/2021-06-29-vscode-extensions/)
 - [VSCode: fanboying over devcontainers](https://sionwilliams.com/posts/2021-06-17-loving-devcontainers/)
 - [Foam Research: Templates](https://sionwilliams.com/posts/2021-05-02-foam-research-templates/)
 - [Using Telegram With Sonarr, Radarr and Lazylibrarian](https://sionwilliams.com/posts/2021-04-08-using-telegram-with-sonarr-radarr-lazylibrarian/)
-- [Unifi, Namecheap and Dynamic Dns](https://sionwilliams.com/posts/2021-03-28-unifi-namecheap-dynamic-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sionwilliams.com
