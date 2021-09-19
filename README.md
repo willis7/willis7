@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exporting your Kindle clippings/highlights](https://sionwilliams.com/posts/2021-09-19-export-kindle-clippings/)
 - [Digital Garden](https://sionwilliams.com/posts/2021-09-16-digital-garden/)
 - [VSCode Extension Recommendations](https://sionwilliams.com/posts/2021-06-29-vscode-extensions/)
 - [VSCode: fanboying over devcontainers](https://sionwilliams.com/posts/2021-06-17-loving-devcontainers/)
 - [Foam Research: Templates](https://sionwilliams.com/posts/2021-05-02-foam-research-templates/)
-- [Using Telegram With Sonarr, Radarr and Lazylibrarian](https://sionwilliams.com/posts/2021-04-08-using-telegram-with-sonarr-radarr-lazylibrarian/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sionwilliams.com
