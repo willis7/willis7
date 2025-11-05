@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/willis7/willis7/blob/master/pixel_avatar.png" alt="It me" width=175px height=175px />
-
 ### Hiya, I'm Sion (pronounced Shaun)
 
 * I'm 🏴󠁧󠁢󠁷󠁬󠁳󠁿 but I live in Exeter, 🏴󠁧󠁢󠁥󠁮󠁧󠁿
